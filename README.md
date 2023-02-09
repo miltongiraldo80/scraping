@@ -1,5 +1,5 @@
 # proyecto scraping
-intruccion para correr el archivo 
+instruccion para correr el archivo 
 
 se puede hacer merge en diferentes formas
 dependiendo la necesidad (#)
